@@ -12,7 +12,7 @@ tags: [Tech Blogs, Study]
 
 以下都是我自己关注的一些部落格，从别人身上学习，就是站在巨人的肩膀上。
 
-######Android技术牛人的博客
+######Android技术博客
 
 ---
 -	[__高建武__][高建武]
@@ -38,6 +38,25 @@ tags: [Tech Blogs, Study]
 
 ---
 
+######综合性博客
+
+---
+
+  - [__陈皓__][陈皓]
+  - [__MindHack__][MindHack]
+  - [__庄晓眈__][庄晓眈]
+  - [__云风__][云风]
+  - [__徐宥（Google）__][徐宥]
+  - [__赵劼__][赵劼]
+  - [__TonyBai__][TonyBai]
+  - [__RednaxelaFX（专注Java虚拟机）__][RednaxelaFX(JVM)]
+  - [__Matrix67__][Matrix67]
+  - [__July__][July]
+  - [__杨显（OpenCV）__][杨显(OpenCV)]
+  - [__TimYang__][TimYang]
+
+---
+
 
   [高建武]:http://androidperformance.com/
   [胡凯]:http://hukai.me/
@@ -60,27 +79,6 @@ tags: [Tech Blogs, Study]
   [鸿洋]:http://blog.csdn.net/lmj623565791?viewmode=contents
   [夏安明]:http://blog.csdn.net/xiaanming
 
-
-
-
-######综合性博客
-
----
-
-  - [__陈皓__][陈皓]
-  - [__MindHack__][MindHack]
-  - [__庄晓眈__][庄晓眈]
-  - [__云风__][云风]
-  - [__徐宥（Google）__][徐宥]
-  - [__赵劼__][赵劼]
-  - [__TonyBai__][TonyBai]
-  - [__RednaxelaFX（专注Java虚拟机）__][RednaxelaFX(JVM)]
-  - [__Matrix67__][Matrix67]
-  - [__July__][July]
-  - [__杨显（OpenCV）__][杨显(OpenCV)]
-  - [__TimYang__][TimYang]
-
----
 
   [陈皓]:http://coolshell.cn/
   [MindHack]:http://mindhacks.cn/
