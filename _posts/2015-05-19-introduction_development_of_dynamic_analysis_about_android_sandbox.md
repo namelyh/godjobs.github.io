@@ -33,5 +33,6 @@ tags: [Android, Sercurity]
 当程序通过API获取敏感信息，利用封装的Taint类讲数据进行污点标识。TaintBox的污点追踪值得学习借鉴。
 
 实现方式：
+
    1. 内核空间api拦截，通过printk将格式信息写入。在PC端通过adb shell  cat  /proc/kmsg读取信息解析。
    2. 用户空间api拦截。
