@@ -3,7 +3,7 @@
 layout: post
 category: Notes
 title: Android沙盒开发之动态分析介绍
-tagline: by GodJobs
+tagline: by Android安全研究
 tags: [Android, Sercurity]
 
 ---
@@ -36,3 +36,5 @@ tags: [Android, Sercurity]
 
    1. 内核空间api拦截，通过printk将格式信息写入。在PC端通过adb shell  cat  /proc/kmsg读取信息解析。
    2. 用户空间api拦截。
+
+[点击查看原文](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NzAxMzk4NA==&appmsgid=10000010&itemidx=1&sign=0006db95256921c574a90607e5fbd85c&scene=4#wechat_redirect)
