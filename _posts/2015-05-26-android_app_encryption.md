@@ -7,7 +7,7 @@ tagline: by 红黑联盟
 tags: [Android, Sercurity]
 
 ---
-主要介绍集中Android应用常见的几种加密方式。
+主要介绍几种Android应用中常见的几种加密方式。
 
 <!--more-->
 
