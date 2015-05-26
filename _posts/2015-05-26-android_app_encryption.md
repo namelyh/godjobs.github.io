@@ -2,8 +2,8 @@
 
 layout: post
 category: Notes
-title: Android伪加密（一）
-tagline: by Android安全研究
+title: Android应用加密
+tagline: by 红黑联盟
 tags: [Android, Sercurity]
 
 ---
@@ -41,3 +41,5 @@ tags: [Android, Sercurity]
 
 
 ---
+
+[点击查看原文](http://www.2cto.com/Article/201311/258830.html)
