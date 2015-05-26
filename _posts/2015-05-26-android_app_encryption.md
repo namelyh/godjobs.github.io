@@ -9,6 +9,7 @@ tags: [Android, Sercurity]
 ---
 主要介绍集中Android应用常见的几种加密方式。
 
+<!--more-->
 
   * 源码混淆
 
